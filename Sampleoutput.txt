@@ -1,0 +1,2 @@
+loan_id account_id date amount duration payments status ; disp_id client_id type ; account_id district_id frequency date ; client_id birth_number 
+5314  1787  930705  96396  12  8033.00  B  ;2166  2166  OWNER  ;30  POPLATEK TYDNE  930322  ;32012  EF  8468449  8033.20  UVER  ;2166  475722  ;
